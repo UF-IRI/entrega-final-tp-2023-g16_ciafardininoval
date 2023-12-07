@@ -1,3 +1,0 @@
-1,Yoga
-2,Pilates,14:30
-3,Spinning,18:45
